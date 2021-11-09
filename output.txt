@@ -1,0 +1,4 @@
+runfile('C:/Users/ksriv/script.py', wdir='C:/Users/ksriv')
+Date of the Hottestday :  2016-03-17T00:00:00
+Temperature of the Hottest Date : 15.8
+Region of the Hottest Day Highland & Eilean Siar
